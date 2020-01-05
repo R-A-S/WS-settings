@@ -1,0 +1,20 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="preserve" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+        <entry key="RUSSIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+    <option name="overrideFont" value="true" />
+    <option name="primaryFontFamily" value="Segoe UI" />
+    <option name="showStatusIcon" value="false" />
+    <option name="showWordForms" value="false" />
+  </component>
+</application>

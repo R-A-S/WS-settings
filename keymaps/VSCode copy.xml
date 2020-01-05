@@ -1,0 +1,20 @@
+<keymap version="1" name="VSCode copy" parent="VSCode">
+  <action id="EditorDecreaseFontSize">
+    <mouse-shortcut keystroke="control button142" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <mouse-shortcut keystroke="control button143" />
+  </action>
+  <action id="EditorResetFontSize">
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="shift alt h" />
+  </action>
+  <action id="Macro.SAVE with all fixes and formats">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="SilentCodeCleanup">
+    <keyboard-shortcut first-keystroke="shift alt e" />
+  </action>
+</keymap>

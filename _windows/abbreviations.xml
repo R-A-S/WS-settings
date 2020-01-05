@@ -1,0 +1,10 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="EditorResetFontSize">
+        <abbreviation name="" />
+      </action>
+      <action id="ViewMainMenu" />
+    </abbreviations>
+  </component>
+</application>
