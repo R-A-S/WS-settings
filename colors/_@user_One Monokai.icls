@@ -3,7 +3,7 @@
     <property name="created">2019-10-28T11:30:40</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2020-01-05T13:00:08</property>
+    <property name="modified">2020-01-06T14:26:18</property>
     <property name="originalScheme">One Monokai</property>
   </metaInfo>
   <colors>
@@ -1039,6 +1039,11 @@
     <option name="JS.DEBUGGER_STMT">
       <value>
         <option name="FOREGROUND" value="e06c75" />
+      </value>
+    </option>
+    <option name="JS.DECORATOR">
+      <value>
+        <option name="FOREGROUND" value="d182db" />
       </value>
     </option>
     <option name="JS.FUNCTION">
