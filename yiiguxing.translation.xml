@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="{ title: 'One', text: 'One of us' }, { title: 'Two', text: 'Two real mans' }, { title: 'Three', text: 'Three cats' }," />
+      <item value="Three" />
       <item value="Pipes" />
       <item value="Embedded" />
       <item value="directives and something else" />
@@ -13,8 +15,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="9" />
-        <entry key="RUSSIAN" value="9" />
+        <entry key="ENGLISH" value="11" />
+        <entry key="RUSSIAN" value="11" />
       </map>
     </option>
   </component>
