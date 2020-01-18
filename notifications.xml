@@ -1,6 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Angular CLI" />
-    <notification groupId="Inspection Results" displayType="NONE" shouldLog="false" />
-  </component>
-</application>
